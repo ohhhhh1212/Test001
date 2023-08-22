@@ -5,6 +5,12 @@ using UnityEngine.UI;
 
 public class HelloWorld : MonoBehaviour
 {
+    void Test()
+    {
+        // 이거 보이면 성공!!
+    }
+
+
     [SerializeField] Transform hell = null;
     [SerializeField] Text txt = null;
 
